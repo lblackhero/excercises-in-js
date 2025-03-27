@@ -1,2 +1,2 @@
 # excercises-in-js
-Repository with some exercises using JavaScript.
+Repository with some code exercises using JavaScript.
